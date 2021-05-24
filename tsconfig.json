@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": false,
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "outDir": "./dist",
+    "removeComments": true,
+    "declaration": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "include": ["src/**/*"]
+}

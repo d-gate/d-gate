@@ -212,7 +212,7 @@ struct Payment{
     uint256 fee; /// Fee in wei 
 }
 ```
-If you are using `d-gate` package, it will automatically convert it to a standard format by an static method called `DGate.parseRawPayment(payment)` : 
+If you are using `@dgate/bsc` package, it will automatically convert it to a standard format by an static method called `DGate.parseRawPayment(payment)` : 
 ``` typescript
 interface IPayment{
     id : number; /// An unique id, Unsigned integer (64 bits)

@@ -1,6 +1,6 @@
 {
   "name": "@dgate/bsc",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An application programming interface (API) to interact with D-Gate payment contract on Binance Smart Chain using Ethers.js",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
